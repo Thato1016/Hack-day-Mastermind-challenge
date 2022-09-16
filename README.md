@@ -15,7 +15,7 @@ Develop a Mastermind game version in C language. The mastermind game consists in
 This project is compiled on Ubuntu 14.04 LTS using C language `gcc compiler version 4.8.5`
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/devarias/MasterMindGame"`
+* Clone this repository: `git clone "https://github.com/Thato1016/Hack-day-Mastermind-challenge.git"`
 * Access MasterMindGame directory: `cd MasterMindGame`
 * Compile all the source files with the command: `gcc -Wall -Wextra -Werror -pedantic *.c -o MasterMind`
 * Run the game: `./MasterMind`
